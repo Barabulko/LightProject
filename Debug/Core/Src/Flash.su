@@ -1,0 +1,5 @@
+../Core/Src/Flash.c:3:10:FlashRead	16	static
+../Core/Src/Flash.c:8:10:FlashRead64	24	static
+../Core/Src/Flash.c:13:6:FlashWrite_NET	136	static,ignoring_inline_asm
+../Core/Src/Flash.c:47:6:FlashWrite_RELAY	72	static,ignoring_inline_asm
+../Core/Src/Flash.c:79:6:flash_erase	8	static,ignoring_inline_asm

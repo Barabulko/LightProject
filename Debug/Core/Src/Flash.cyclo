@@ -1,0 +1,5 @@
+Flash.c:3:10:FlashRead	1
+Flash.c:8:10:FlashRead64	1
+Flash.c:13:6:FlashWrite_NET	4
+Flash.c:47:6:FlashWrite_RELAY	3
+Flash.c:79:6:flash_erase	2

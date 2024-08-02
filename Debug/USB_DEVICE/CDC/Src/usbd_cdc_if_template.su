@@ -1,0 +1,4 @@
+../USB_DEVICE/CDC/Src/usbd_cdc_if_template.c:99:15:TEMPLATE_Init	4	static
+../USB_DEVICE/CDC/Src/usbd_cdc_if_template.c:113:15:TEMPLATE_DeInit	4	static
+../USB_DEVICE/CDC/Src/usbd_cdc_if_template.c:130:15:TEMPLATE_Control	16	static
+../USB_DEVICE/CDC/Src/usbd_cdc_if_template.c:207:15:TEMPLATE_Receive	16	static
